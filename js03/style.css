@@ -1,0 +1,30 @@
+body {
+  background-color: skyblue;
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+#message {
+  height: 100px;
+  width: 300px;
+}
+
+#send {
+  height: 50px;
+  width: 100px;
+}
+
+div {
+  text-align: center;
+}
+
+textarea {
+  vertical-align: top;
+}
+
+#output {
+  background-color: white;
+}
